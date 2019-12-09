@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/top-images-app/static/css/main.20175d68.chunk.css",
+    "main.js": "/top-images-app/static/js/main.8ed70a96.chunk.js",
+    "main.js.map": "/top-images-app/static/js/main.8ed70a96.chunk.js.map",
+    "runtime-main.js": "/top-images-app/static/js/runtime-main.db715a59.js",
+    "runtime-main.js.map": "/top-images-app/static/js/runtime-main.db715a59.js.map",
+    "static/js/2.14f8816c.chunk.js": "/top-images-app/static/js/2.14f8816c.chunk.js",
+    "static/js/2.14f8816c.chunk.js.map": "/top-images-app/static/js/2.14f8816c.chunk.js.map",
+    "index.html": "/top-images-app/index.html",
+    "precache-manifest.4ddf6d76f827c87bcaba070aed0d85ae.js": "/top-images-app/precache-manifest.4ddf6d76f827c87bcaba070aed0d85ae.js",
+    "service-worker.js": "/top-images-app/service-worker.js",
+    "static/css/main.20175d68.chunk.css.map": "/top-images-app/static/css/main.20175d68.chunk.css.map",
+    "static/js/2.14f8816c.chunk.js.LICENSE": "/top-images-app/static/js/2.14f8816c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db715a59.js",
+    "static/js/2.14f8816c.chunk.js",
+    "static/css/main.20175d68.chunk.css",
+    "static/js/main.8ed70a96.chunk.js"
+  ]
+}
